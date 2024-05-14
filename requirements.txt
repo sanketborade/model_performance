@@ -1,5 +1,5 @@
-hdbscan==0.8.29
-joblib==1.1.0
+hdbscan==0.8.30
+joblib==1.2.0
 numpy==1.26.0
 pandas==2.0.2
 scikit-learn==1.2.2
